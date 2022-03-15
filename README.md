@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ### Run MultiDash Flask App
 
 ```bash
-make run
+make run # Assumes you have activated the venv and installed as above
 ```
 
 ### View Externally
